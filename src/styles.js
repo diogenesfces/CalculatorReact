@@ -9,12 +9,10 @@ export const Container = styled.div`
     align-items: center;
     justify-content: center;
 
-    
 `
 export const Content = styled.div`
     background-color: #FFFFFF;
     width: 50%;
-    min-height: 350px;
     border-radius: 15px; 
     padding: 10px;  
     box-shadow: 0 4px 10px rgba(200, 200, 200, 0.5);
